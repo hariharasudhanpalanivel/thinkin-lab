@@ -22,3 +22,15 @@ height: 10vh;
     left: 0;
     z-index: 1030;
 }
+
+.active{
+    text-decoration: underline;
+    text-decoration-color: currentcolor;
+    text-decoration-thickness: auto;
+    text-decoration-color: rgb(57, 0, 213);
+    text-decoration-thickness: 3px;
+    text-underline-position: under;
+}
+.nav-element{
+    text-decoration-style: none;
+}
